@@ -1,0 +1,6 @@
+REQUIREMENTS:
+
+pandas
+scikit learn 
+streamlit
+pickle
