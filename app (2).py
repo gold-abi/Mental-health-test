@@ -75,7 +75,6 @@ if st.button("Predict"):
     else:
         risk_label = "High"
 
-    st.subheader("Prediction Result")
-    st.write(f"Predicted Risk Score: **{prediction}**")
+
     st.write(f"Mental Health Risk Level: **{risk_label}**")
 
